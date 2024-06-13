@@ -15,4 +15,4 @@ QML has emerged across various paradigms, each pushing the boundaries of convent
     Resources include research papers, articles, and links to relevant tools and libraries.
     Engage with the community through discussions, contributions, and collaborations.
 
-Come, be a part of shaping the future of machine learning with quantum computing!
+Come, be an element of shaping the future of machine learning with quantum computing!
